@@ -1,0 +1,17 @@
+
+# bigtech-json-data
+This repo contains JSON data about the Top Tech Companies in the World.
+
+I created this JSON data for use as a demo for {{ gh.link("iaseth/josn") }}.
+The original CSV data was downloaded from [companiesmarketcap.com](https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/).
+
+I am using {{ gh.link("iaseth/readmix", "readmix") }} for generating this README.
+You can view the source file [here](https://github.com/iaseth/bigtech-json-data/blob/master/README.md.rx).
+
+
+## License
+{{ "LICENSE.md" | File }}
+
+
+{{ giveCredit() }}
+
